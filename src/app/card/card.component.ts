@@ -42,7 +42,7 @@ export class CardComponent implements OnInit {
   }
 
   async main(): Promise<void> {
-    await liff.init({ liffId: 'liffid' });
+    await liff.init({ liffId: '1661306848-yPVLVojM' });
     if (!liff.isLoggedIn()) {
       liff.login();
     }
