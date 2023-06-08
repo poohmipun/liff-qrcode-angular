@@ -9,9 +9,9 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: 20px;
 }
 .card {
+  padding: 20px;
   border: none;
   position: relative;
   display: flex;
